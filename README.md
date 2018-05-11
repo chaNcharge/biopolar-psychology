@@ -1,2 +1,2 @@
-# biopolar-psychology
+# bipolar-psychology
 Psychology project about bipolar disorder
