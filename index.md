@@ -14,9 +14,9 @@ The exact cause of bipolar disorder is unknown, but genetics and biological diff
 Treatments can help reduce symptoms, but this condition cannot be completely cured.
 
 Treatments include:
-- Therapy: Support groups, cognitive behavioral therapy, and other kinds of therapy can help reduce symptoms
-- Medications: Anticonvulsant, Antipsychotic, and Selective Serotonin Reuptake Inhibitor (SSRI) 
-- Hospitalization
+- **Therapy**: Support groups, cognitive behavioral therapy, and other kinds of therapy can help reduce symptoms
+- **Medications**: Anticonvulsant, Antipsychotic, and Selective Serotonin Reuptake Inhibitor (SSRI) 
+- **Hospitalization**
 
 There isn't a sure way to prevent bipolar disorder. Avoiding drugs and alcohol, paying attention to warning signs, and taking medications exactly as directed can keep the disorder under control. If you haven't been diagnosed yet and are seeing symptoms and warning signs, see a psychiatrist or call 911 if it gets out of hand.
 
