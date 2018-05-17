@@ -26,7 +26,4 @@ The symptoms of bipolar disorder were noticed as early as the first century in G
 ## Stigma
 Some think people with bipolar are dangerous and extremely moody. In the past, people thought they were maniacs who should be in an asylum. Because of this, people with the disorder have a much harder time speaking out about it than what the actual disorder is doing to them. People with bipolar disorder aren't dangerous, they can't help themselves! If you're reading this and you have a friend that has bipolar, don't be afraid of them! If you talk to each other, that can help make their day a lot better. If you have the disorder and you're reading this, don't be afraid of others! Don't be afraid to speak out about it to your friends!
 
-## Personal stories (placeholder)
-https://www.youtube.com/watch?v=Q_XWa0BVcuw
-
-#### References
+## Personal stories
